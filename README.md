@@ -4,4 +4,4 @@ of users.
 
 The main program is run from 'app.py'.
 
-Credit for the display time code (disTime .js) goes to Simon Waldherr.
+Credit for the display time code (disTime .js) goes to Simon Waldherr, and normalize .css to MIT.
