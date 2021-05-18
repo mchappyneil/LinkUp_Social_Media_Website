@@ -24,7 +24,7 @@ from flask_login import UserMixin
 from peewee import *
 
 
-DATABASE = SqliteDatabase('test.db')
+DATABASE = SqliteDatabase('public.db')
 
 
 class User(UserMixin, Model):
